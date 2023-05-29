@@ -10,7 +10,6 @@
   },
   "cssModules": {
     "/opt/formulario/src/app/page": [
-      "/opt/formulario/src/app/page.module.css",
       "/opt/formulario/src/app/globals.css",
       "/opt/formulario/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ]
