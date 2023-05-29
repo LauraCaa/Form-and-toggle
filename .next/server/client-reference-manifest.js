@@ -230,6 +230,32 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./src/app/components/calculator.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/calculator.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/calculator.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/calculator.js",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/components/formulario.js": {
       "*": {
         "id": "(sc_client)/./src/app/components/formulario.js",
@@ -959,6 +985,30 @@ self.__RSC_MANIFEST={
       "chunks": [
         "static/css/app/page.css"
       ]
+    },
+    "/opt/formulario/src/app/components/calculator.js": {
+      "id": "(app-client)/./src/app/components/calculator.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/opt/formulario/src/app/components/calculator.js#": {
+      "id": "(app-client)/./src/app/components/calculator.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/opt/formulario/src/app/components/calculator.js#default": {
+      "id": "(app-client)/./src/app/components/calculator.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
     },
     "/opt/formulario/src/app/components/formulario.js": {
       "id": "(app-client)/./src/app/components/formulario.js",
